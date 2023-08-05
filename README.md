@@ -1,2 +1,5 @@
 # CISCO_3LAN_Configuration
 A Cisco router switch LAN architecture is a network topology that uses a combination of routers and switches to connect devices on a local area network (LAN). Routers are responsible for routing traffic between different networks, while switches are responsible for connecting devices within the same network.
+In a Cisco router switch LAN architecture, the routers are typically connected to each other using high-speed links, such as Gigabit Ethernet or 10 Gigabit Ethernet. These links provide the backbone of the network and allow for the efficient routing of traffic between different parts of the network.
+The switches are connected to the routers and to the devices on the LAN. The switches provide a way for devices to communicate with each other on the same network. They also provide features such as port security and VLANs to help protect the network from unauthorized access.
+Cisco router switch LAN architectures are a common way to build and manage LANs. They offer a number of advantages, including scalability, flexibility, and security.
